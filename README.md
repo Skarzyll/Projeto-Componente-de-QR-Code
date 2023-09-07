@@ -1,2 +1,0 @@
-# Projeto-Componente-QR-Code
- 
